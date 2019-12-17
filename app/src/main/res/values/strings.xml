@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Translate and time</string>
+    <string name="check_time">Check time</string>
+    <string name="translate">Translate</string>
+    <string name="warsawtext">WARSAW</string>
+    <string name="londontext">LONDON</string>
+    <string name="type_here_text_to_translate">Type here text to translate</string>
+    <string name="result">Result:</string>
+    <string name="from">FROM</string>
+    <string name="to">TO</string>
+    <string name="pl">pl</string>
+    <string name="fr">fr</string>
+    <string name="en">en</string>
+    <string name="english">English</string>
+    <string name="france">France</string>
+    <string name="polish">Polish</string>
+</resources>
